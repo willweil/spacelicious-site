@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Spacelicious">
+  <rect width="32" height="32" rx="8" fill="#1b2430"/>
+  <circle cx="16" cy="16" r="5.25" fill="none" stroke="#f3efe6" stroke-width="1.6"/>
+  <circle cx="16" cy="16" r="2.1" fill="#7aa2ff"/>
+  <ellipse cx="16" cy="16" rx="11" ry="4.2" fill="none" stroke="#c9d7ff" stroke-width="1.3" transform="rotate(-28 16 16)"/>
+  <circle cx="25.4" cy="10.7" r="1.35" fill="#f3efe6"/>
+</svg>
